@@ -1,7 +1,9 @@
-local age = 15
+local age = 35
 
-if 18 >= 18 then
+if age > 18 then
     print("Eligible for Vote")
+else
+    print("Not eligible for vote")
 end
 
 ----
